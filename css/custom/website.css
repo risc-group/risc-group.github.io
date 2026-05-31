@@ -72,6 +72,10 @@ body > .container {
     padding: 0rem 0.25rem 0.25rem 0.25rem;
 }
 
+.card-main {
+    margin-bottom: 15px;
+}
+
 /* Buttons */
 .paper-button {
     margin-top: 0.25rem;
