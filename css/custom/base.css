@@ -23,6 +23,10 @@ b{
     /*font-weight: 500;*/
 }
 
+.group-member {
+    font-weight: 600;
+}
+
 .update {
     font-size: 65%;
 }
